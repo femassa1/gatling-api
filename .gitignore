@@ -1,2 +1,13 @@
-*.class
+*.idea
+*.idea/**
+*.iml
+*.ipr
+target
+*.project
+*.classpath
+*.iws
+*.settings/**
 *.log
+*.log.gz
+rebel.xml
+/bin/

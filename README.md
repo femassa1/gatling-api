@@ -1,2 +1,0 @@
-# gatling-api
-TestePerformanceAPI
