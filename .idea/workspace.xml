@@ -1,7 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc8f485-09cf-40e1-86e4-0c26cba83d6f" name="Default Changelist" comment="" />
+    <list default="true" id="3bc8f485-09cf-40e1-86e4-0c26cba83d6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dongxiguo_fastring_2_11_0_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_async_http_client_1_9_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_3_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_11_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_fastjson_boon_0_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_app_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_charts_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_core_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_http_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jdbc_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jms_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_metrics_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_recorder_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_redis_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_highcharts_gatling_charts_highcharts_2_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_jsonpath_2_11_0_6_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_debasishg_redisclient_2_11_2_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_6_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_52.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_52.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_assert_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_util_1_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_lagarto_3_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_log_3_6_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_swing_2_11_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatling-sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/br/com/scenary/BasicScenario.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/br/com/scenary/PerformanceApiTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling-sample-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/all_sessions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/gatling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/global_stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/highcharts-more.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/highstock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/req_http-80791.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/arrow_down_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/arrow_right_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/cible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/fond-degrade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/fond-lueur.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/little_arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/logo-gatling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/sortable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/sorted-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/sorted-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/stat-fleche-bas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/stat-fond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/stat-l-roue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/stat-l-temps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/all_sessions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/gatling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/global_stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/highcharts-more.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/highstock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/req_http-80791.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/arrow_down_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/arrow_right_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/cible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/fond-degrade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/fond-lueur.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/little_arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/logo-gatling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/sortable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/sorted-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/sorted-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/stat-fleche-bas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/stat-fond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/stat-l-roue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/stat-l-temps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271410743/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/all_sessions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/gatling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/global_stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/highcharts-more.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/highstock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/req_http-80791.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/arrow_down_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/arrow_right_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/cible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/fond-degrade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/fond-lueur.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/little_arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/logo-gatling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/sortable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/sorted-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/sorted-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/stat-fleche-bas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/stat-fond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/stat-l-roue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/stat-l-temps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/zincCache" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +172,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/simulations/SalesForceSimulation.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -23,56 +185,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/scenarios/SalesForceRequest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding>
-                <element signature="e#19#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="36" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/requests/ExecuteRequest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="69" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="69" />
-              <folding>
-                <element signature="e#18#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/requests/GetTokenRequest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-              <folding>
-                <element signature="e#18#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/config/Config.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -85,6 +202,9 @@
         <option value="Scala Object" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,86 +254,86 @@
     <option name="width" value="1363" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="requests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="scenarios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="simulations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-api" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +385,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -281,7 +400,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.9316547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.9316547" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3291367" />
@@ -294,6 +413,33 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.9316547" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/scala/Engine.scala" />
@@ -322,27 +468,10 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/recorder.conf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/config/Config.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/simulations/SalesForceSimulation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="e#21#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,6 +502,26 @@
           <folding>
             <element signature="e#18#49#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatling-test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/simulations/SalesForceSimulation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#21#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
