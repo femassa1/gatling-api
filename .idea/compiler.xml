@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gatling-sample" />
+        <module name="gatling-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gatling-sample" target="1.7" />
+      <module name="gatling-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

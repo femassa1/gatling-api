@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6a0046-3cd1-459e-9cfc-295c8d03e48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scala/br/com/scenary/PerformanceApiTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicScenario.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicSimulation.scala" beforeDir="false" />
-    </list>
+    <list default="true" id="3bc8f485-09cf-40e1-86e4-0c26cba83d6f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +12,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scala/br/com/scenary/PerformanceApiTest.scala">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/simulations/SalesForceSimulation.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <element signature="e#21#66#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/scala/br/com/scenary/BasicScenario$.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/scenarios/SalesForceRequest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+            <state relative-caret-position="119">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#19#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,8 +38,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="42" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="42" />
+            <state relative-caret-position="255">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/requests/ExecuteRequest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="69" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="69" />
+              <folding>
+                <element signature="e#18#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/requests/GetTokenRequest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+              <folding>
+                <element signature="e#18#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/config/Config.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -49,119 +82,151 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="Scala Object" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicScenario.java" />
-        <option value="$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicSimulation.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/PerformanceApiTest.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicScenario3.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/scenarios/CreateUserRequest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/Config.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/GetTokenRequest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/CreateUserRequest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/CreateUserScenario.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/Simulation.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/simulations/Simulation.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/requests/CreateUserRequest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/scenarios/CreateUserScenario.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/scenary/BasicScenario3.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/scenary/PerformanceApiTest.scala" />
-        <option value="$PROJECT_DIR$/src/scala/br/com/scenary/BasicScenario.scala" />
-        <option value="$PROJECT_DIR$/src/scala/br/com/scenary/PerformanceApiTest.scala" />
-        <option value="$PROJECT_DIR$/src/scala/br/com/scenary/BasicScenario$.java" />
+        <option value="$PROJECT_DIR$/src/test/scala/config/Config.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/scenarios/SalesForceRequest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/simulations/SalesForceSimulation.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/requests/ExecuteRequest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/requests/GetTokenRequest.scala" />
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gatling-framework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gatling-framework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1363" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="scenary" type="462c0819:PsiDirectoryNode" />
+              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="simulations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatling-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatling-test" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="gatling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatling-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatling_api_test" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="gatling" type="462c0819:PsiDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551272886687" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552050543545" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\gatling\gatling_api_test\src\test\scala\fr\jetoile\sample" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\gatling\gatling_api_test\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Gatling\gatling-test\src\test\scala" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,19 +246,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d6a0046-3cd1-459e-9cfc-295c8d03e48a" name="Default Changelist" comment="" />
-      <created>1550528143991</created>
+      <changelist id="3bc8f485-09cf-40e1-86e4-0c26cba83d6f" name="Default Changelist" comment="" />
+      <created>1551905546172</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550528143991</updated>
+      <updated>1551905546172</updated>
     </task>
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28899083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -206,60 +280,99 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42446044" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.9316547" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295107" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicScenario.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicScenario2" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/fr/jetoile/sample/BasicSimulation.scala" />
-    <entry file="file://$PROJECT_DIR$/target/gatling/results/performanceapitest-1550574260588/index.html" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Engine.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/IDEPathHelper.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Recorder.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/scenarios/CreateUserRequest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/GetTokenRequest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/CreateUserRequest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/CreateUserScenario.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Config.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/gatling/gatling-http/2.3.0/gatling-http-2.3.0.jar!/io/gatling/http/check/HttpCheckSupport.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="42" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="42" />
+        <state relative-caret-position="131">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/br/com/scenary/BasicScenario.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/gatling.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="12" />
-        </state>
+        <state relative-caret-position="-1734" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/gatling/results/performanceapitest-1550578126219/index.html">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/gatling/results/performanceapitest-1551271644279/req_http-80791.html">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/recorder.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/br/com/scenary/PerformanceApiTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/config/Config.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/simulations/SalesForceSimulation.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#21#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/br/com/scenary/BasicScenario$.java">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/requests/ExecuteRequest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        <state relative-caret-position="153">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#18#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/scenarios/SalesForceRequest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#19#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/requests/GetTokenRequest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+          <folding>
+            <element signature="e#18#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

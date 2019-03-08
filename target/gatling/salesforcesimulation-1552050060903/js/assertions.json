@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SalesForceSimulation",
+  "simulationId": "salesforcesimulation",
+  "start": 1552050060903,
+  "description": "null",
+  "scenarios": ["Login SalesForce", "Request SalesForce"],
+  "assertions": [
+
+  ]
+}
